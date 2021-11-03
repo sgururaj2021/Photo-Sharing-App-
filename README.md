@@ -2,7 +2,8 @@
 The source code for python django **Photo Sharing App**.
 
 
-For installing the virtual environment:
+**For installing the virtual environment:**
+
 venv
 
 python -m venv venv
