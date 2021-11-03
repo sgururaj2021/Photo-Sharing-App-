@@ -6,7 +6,10 @@ For installing the virtual environment:
 venv
 
 python -m venv venv
-.\venv/scripts/activate
+
+To activate virtual environment:- .\venv/scripts/activate
+
 python manage.py migrate
+
 python manage.py runserver 
 
